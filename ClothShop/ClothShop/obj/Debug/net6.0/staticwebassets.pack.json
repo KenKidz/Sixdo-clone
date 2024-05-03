@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\1.1.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\1.1.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\1.2.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\1.2.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\4126459.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\4126459.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\5.1.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\5.1.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\5.2.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\5.2.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\7.1.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\7.1.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\7.2.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\7.2.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\adasd.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\adasd.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\addqw.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\addqw.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\afgh.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\afgh.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\afghj.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\afghj.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\anchor.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\anchor.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\arty.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\arty.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\dcs9ps3-9ce86dda-105c-4d16-a08a-95f5837cb06b.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\dcs9ps3-9ce86dda-105c-4d16-a08a-95f5837cb06b.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\dd9yw1j-e553e3cc-53f0-4e43-9410-1da8846e0c16.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\dd9yw1j-e553e3cc-53f0-4e43-9410-1da8846e0c16.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\eretet.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\eretet.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\kasdasd.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\kasdasd.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\qweqe.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\qweqe.jpg"
+    },
+    {
+      "Id": "E:\\Documents\\Backend\\ClothShop\\ClothShop\\wwwroot\\images\\productImg\\vay-ngan.jpg",
+      "PackagePath": "staticwebassets\\images\\productImg\\vay-ngan.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ClothShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ClothShop.props",
+      "PackagePath": "build\\ClothShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ClothShop.props",
+      "PackagePath": "buildMultiTargeting\\ClothShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ClothShop.props",
+      "PackagePath": "buildTransitive\\ClothShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
